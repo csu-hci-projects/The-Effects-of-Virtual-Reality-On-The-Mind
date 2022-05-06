@@ -29,4 +29,3 @@
 
 1. Attatch the correctly named scripts to the player controller attatched to the XR Origin
 2. Attatch the JumpPad script to the rectangle placed in the hall
-
